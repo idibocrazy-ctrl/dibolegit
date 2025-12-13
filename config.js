@@ -1,9 +1,9 @@
-// Configuration du site Great THUG
+// Configuration du site DIBOXE LEGIT
 // Modifiez ces valeurs pour personnaliser votre site
 
 const SITE_CONFIG = {
     // Informations personnelles
-    title: "Great THUG",
+    title: "DIBOXE LEGIT",
     citation: "I don't seek power - I am power.",
     
     // Couleurs principales (format hexadécimal)
@@ -17,11 +17,11 @@ const SITE_CONFIG = {
     
     // Liens sociaux
     socialLinks: {
-        github: "https://github.com/paulafredo",
-        tiktok: "https://www.tiktok.com/@thug.4ff",
-        youtube: "https://www.youtube.com/@thug.4ff",
-        discord: "https://discord.gg/BhQk4q3JGJ",
-        telegram: "https://t.me/thug4ff"
+        github: "https://github.com/idibocrazy-ctrl",
+        tiktok: "https://www.tiktok.com/@legit.diboxe",
+        youtube: "https://youtube.com/@ryusz.diboxe",
+        discord: "https://discord.gg/WCu2TgTmPZ",
+        telegram: "https://t.me/unsatisfiedsoul6358"
     },
     
     // Configuration audio
