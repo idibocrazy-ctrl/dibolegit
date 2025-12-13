@@ -1,4 +1,4 @@
-// Animations avancées pour Great THUG
+// Animations avancées pour DIBOXE LEGIT
 
 class AdvancedAnimations {
     constructor() {
