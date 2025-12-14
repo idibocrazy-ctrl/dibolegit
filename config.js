@@ -19,9 +19,9 @@ const SITE_CONFIG = {
     socialLinks: {
         github: "https://github.com/idibocrazy-ctrl",
         tiktok: "https://www.tiktok.com/@legit.diboxe",
-        youtube: "https://youtube.com/@ryusz.diboxe",
+        youtube: "https://youtube.com/@diboxe.legit69",
         discord: "https://discord.gg/WCu2TgTmPZ",
-        telegram: "https://t.me/unsatisfiedsoul6358"
+        telegram: "https://t.me/DiboxeLegit"
     },
     
     // Configuration audio
