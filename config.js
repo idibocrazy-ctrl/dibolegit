@@ -4,7 +4,7 @@
 const SITE_CONFIG = {
     // Informations personnelles
     title: "DIBOXE LEGIT",
-    citation: "I don't seek power - I am the  power.",
+    citation: "I don't seek power - I am the power.",
     
     // Couleurs principales (format hexadécimal)
     colors: {
