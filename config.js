@@ -18,9 +18,9 @@ const SITE_CONFIG = {
     // Liens sociaux
     socialLinks: {
         github: "https://github.com/idibocrazy-ctrl",
-        tiktok: "https://www.tiktok.com/@legit.diboxe",
+        tiktok: "https://www.tiktok.com/@diboxe.legit",
         youtube: "https://youtube.com/@diboxe.legit69",
-        discord: "https://discord.gg/WCu2TgTmPZ",
+        discord: "https://discord.gg/Ns2tx7g3bJ",
         telegram: "https://t.me/DiboxeLegit"
     },
     
